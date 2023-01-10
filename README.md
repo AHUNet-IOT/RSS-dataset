@@ -20,3 +20,7 @@ The collected source datasets are placed in the file "source dataset".
 To facilitate the researchers' use, the source dataset was processed. The processed dataset is placed in the file "The processed dataset".
 
 In addition, the map information and vehicle track information used for the experiments are placed in the file "Vehicle track".
+
+Base station placement figure with vehicles.
+
+![7D``6~A@RP56I @}S~IJNEG](https://user-images.githubusercontent.com/107245648/211473142-0d52a9ee-4bd7-4a48-b569-6e67b8d9f81c.png)
